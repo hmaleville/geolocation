@@ -1,0 +1,218 @@
+[
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517496509216,
+            "changeTime": 1517496509216,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517496509217,
+            "changeTime": 1517496509217,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1517497242998,
+            "changeTime": 1517497242998,
+            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1517496509217,
+            "changeTime": 1517496509217,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1517496670416,
+            "changeTime": 1517496670416,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/objects/Account/fields/location__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/objects/Account/fields/location__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 404,
+            "modifiedTime": 1517497242945,
+            "changeTime": 1517497242945,
+            "contentHash": "64639ce385e49688e4b75f758552f258f68081bd"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1517497242965,
+            "changeTime": 1517497242965,
+            "contentHash": "efbb3947d62c20bef135de5876abd0e8a2e997bc"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9708,
+            "modifiedTime": 1517497242975,
+            "changeTime": 1517497242975,
+            "contentHash": "35afbbf848b6756c90b40e4745a957d69214ef1e"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1517497242983,
+            "changeTime": 1517497242983,
+            "contentHash": "af666b2950ba57e475e29ab22b90070f10089deb"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9756,
+            "modifiedTime": 1517497242995,
+            "changeTime": 1517497242995,
+            "contentHash": "23388d39ef86074bc4ace323b2ebdeb9cd6b4e71"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1517497243002,
+            "changeTime": 1517497243002,
+            "contentHash": "e759aa5282c2fa0500b93fba8073ffc0ff9ea514"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517497242945,
+            "changeTime": 1517497242945,
+            "contentHash": "66024b999a9cbbf64556dffcab012dadf08dc40f"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517497242940,
+            "changeTime": 1517497242940,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517497242936,
+            "changeTime": 1517497242936,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1517497242995,
+            "changeTime": 1517497242995,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/herve.maleville/Projects/geolocation/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/herve.maleville/Projects/geolocation/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517497243002,
+            "changeTime": 1517497243002,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+        }
+    ]
+]
